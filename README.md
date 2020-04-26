@@ -14,12 +14,13 @@ List of interesting links
 ### Data Analysis
 
 - [D-tale](https://github.com/man-group/dtale): a Flask front end on top of Pandas for data analysis.
+- [Pandas-Vet](https://github.com/deppen8/pandas-vet): a `flake8` plugin to help with data analysis using `pandas`. 
 
 ### Web front-ends
 I won't provide URLs to the ubiquitous Flask and Django here, everyone knows them.
 
 - [Starlette](https://www.starlette.io/): ASGI framework to build asyncio services.
-- [JustPy](https://justpy.io/): web framework that only needs to be programmed in Python (i.e. no JS). Built on top of Starlette. Embed `vue.js` with Python bindings. 
+- [JustPy](https://justpy.io/): web framework that only needs to be programmed in Python (i.e. no JS). Built on top of Starlette. Embed `vue.js` with Python bindings.
 - [FastAPI](https://fastapi.tiangolo.com/): asynchronous API framework. Built on top of Starlette.
 
 ### Development
